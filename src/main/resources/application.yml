@@ -1,0 +1,3 @@
+AZURE:
+  CONTEXT:
+    DIR: /etc/azure-spring-cloud/context/
